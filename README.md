@@ -1,5 +1,5 @@
 # palapasabra
-Proyecto universitario desarrollado en el primer año de la carrera Ingeniería de Sistemas de la Universidad Nacional del Centro de la Provincia de Buenos Aires. Código en Pascal, lenguaje de programación aprendido durante dicho año de la carrera.
+Proyecto universitario desarrollado en Introducción a la Programación II, materia correspondiente al primer año de la carrera Ingeniería de Sistemas de la Universidad Nacional del Centro de la Provincia de Buenos Aires. Código en Pascal, lenguaje de programación aprendido durante dicho año de la carrera.
 
 El trabajo consiste en recrear el famoso juego de televisión "Pasapalabra". La consigna fue la siguiente: 
 
